@@ -1,1 +1,1 @@
-# example-of-floating-animation-
+# example-of-floating-animation
